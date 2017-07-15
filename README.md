@@ -33,7 +33,7 @@ const connection = mysql.createConnection({
 
 Install [Node JS](http://nodejs.org/) on your machine if you haven't already.
 
-In a command line of your choice (I like to use Git Bash), navigate to your local project folder and run `install npm` to instantiate the that folder as a Node project. Assuming `package.json` is present, a folder called `/node_modules` will be created containing all Node JS module dependencies necessary to run this project.
+In a command line of your choice (I like to use Git Bash), navigate to your local project folder and run `install npm` to instantiate that folder as a Node project. Assuming `package.json` is present, a folder called `/node_modules` will be created containing all Node JS module dependencies necessary to run this project.
 
 Instruction
 -----------------------
