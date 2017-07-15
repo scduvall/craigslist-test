@@ -52,6 +52,6 @@ Because this project does not have an interface wrapper that synchronously runs 
       
 3. `node server.js`
 
-      This queries apartment price data from the `apartments` table, organizes it into an HTML table compiling a count for apartment price ranges, and prepares a local web server to recieve the data. 
+      This queries apartment price data from the `apartments` table, organizes it into an HTML table, and prepares a local web server to recieve the data. 
       
       Navigate to http://localhost:8080/ in your browser, or refresh the URL if you already have it open, to dynamically serve the HTML table to the page. You should see a 2-column table with price ranges (in increments of $500) and total inventory tallying the count for each price range (based on the data scraped from Craigslist, naturally).
