@@ -1,7 +1,7 @@
 Craigslist Scraper Test
 ============================
 
-This is a collection of Node JS modules that will access the first page of results retrieved when searching Raleigh apartments on Craigslist, scrape the data, and display it in a plain table on a local web host.
+This is a collection of Node JS modules that will scrape the first page of results retrieved when searching Raleigh apartments on Craigslist, save key apartment data into a MySQL database, then display a subset of that data in a plain HTML table on a local web host.
 
 Installation
 -----------------
