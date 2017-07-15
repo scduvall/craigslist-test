@@ -48,7 +48,7 @@ Because this project does not have an interface wrapper that synchronously runs 
       
 2. `node extract_craigslist.js`
 
-      This will run a scraping script on the Craigslist Raleigh Apartment Search URL (https://raleigh.craigslist.org/search/apa), and save key data into the `apartments` table.
+      This will run a scraping script on the Craigslist Raleigh Apartment Search URL (https://raleigh.craigslist.org/search/apa), and save key data into the `apartments` table for the first 120 search results.
       
 3. `node server.js`
 
