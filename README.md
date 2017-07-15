@@ -6,7 +6,7 @@ This is a collection of Node JS modules that will access the first page of resul
 Installation
 -----------------
 
-Clone this repository to a local folder on your machine using the 
+Clone this repository to a local folder on your machine using the Clone button in the browser or the following command on your local machine:
 
 ```
 git clone https://github.com/scduvall/craigslist-test.git
