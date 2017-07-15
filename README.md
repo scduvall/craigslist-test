@@ -44,7 +44,7 @@ Because this project does not have an interface wrapper that synchronously runs 
 
 1. `node create_table.js`
 
-      This will create a table called `apartments` in the database.
+      This will create a table called `apartments` in the database. You can call this file multiple times for testing purposes - it will detect a duplicate table and overwrite it.
       
 2. `node extract_craigslist.js`
 
